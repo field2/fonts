@@ -1,8 +1,6 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Protest+Riot&display=swap" rel="stylesheet">
+<link href="https://github.com/field2/fonts/raw/master/Spel-Regular.woff2" rel="stylesheet">
 
 * {
-  font-family: 'Protest Riot', sans-serif;
+  font-family: 'Spel', sans-serif;
   border:solid;
 }
