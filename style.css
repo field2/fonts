@@ -1,4 +1,4 @@
-<link href="https://github.com/field2/fonts/raw/master/Spel-Regular.woff2" rel="stylesheet">
+@import url('https://github.com/field2/fonts/raw/master/Spel-Regular.woff2');
 
 * {
   font-family: 'Spel', sans-serif;
