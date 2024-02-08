@@ -1,0 +1,5 @@
+@import url('https://github.com/field2/fonts/blob/master/Spel-Regular.woff2');
+* { 
+font-family:spel !important;
+border:solid !important;
+}
